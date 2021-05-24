@@ -1,0 +1,18 @@
+body {
+    margin-left: 4em;
+}
+h3{
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: 0.25em;
+    color: #515151;
+    
+}
+time{
+    font-size: 0.7em;
+    color:#696969;
+}
+p{
+    color:#2F4F4F;
+    margin-bottom: 1.5em;
+}
